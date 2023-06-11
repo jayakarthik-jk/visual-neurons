@@ -1,2 +1,2 @@
 # visual-neurons
-A simple neural network library with built-in visualization using three.js
+A simple neural network visualization using three.js
